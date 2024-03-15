@@ -156,7 +156,7 @@ export default function MobileFooter(){
                     </div>
                      
                     <div className="footer-navigation-item">
-                        <iframe src={changedInfo.iframeMapLink} width="480" height="300" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src={changedInfo.iframeMapLink} width="480" height="500" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>

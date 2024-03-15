@@ -129,7 +129,7 @@ const changedInfo = {
   metaGoogleSiteVerification: "",
 
   //iframe map
-  iframeMapLink : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d157.86945033478742!2d-3.533776515350408!3d50.721586479953295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486da43af0c1af77%3A0xe478b5a726342f33!2sPrincess%20nails%20Exeter!5e0!3m2!1sen!2sus!4v1681546039070!5m2!1sen!2sus",
+  iframeMapLink : "https://storage.googleapis.com/maps-solutions-uciyad28n8/neighborhood-discovery/znds/neighborhood-discovery.html",
 
   // Các ảnh của tiệm
   ogImage:"https://princess-nails-exeter.web.app/images/desktop-nail-salon-happy-customer-1.jpg",
