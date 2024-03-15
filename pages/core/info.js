@@ -97,7 +97,7 @@ const processedBusinessOpeningTime = {
 
 const changedInfo = {
   businessName: "Princess Nails Exeter",
-  businessAddressLevel1: "95 Fore Street",
+  businessAddressLevel1: "95 Fore St",
   businessAddressLevel2: "Exeter",
   businessAddressLevel3: "Devon",
   businessAddressLevel4: "England",
