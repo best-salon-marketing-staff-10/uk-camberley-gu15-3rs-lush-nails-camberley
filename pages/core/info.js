@@ -121,9 +121,9 @@ const changedInfo = {
 
   
 
-  //Mở Google Maps tiệm, zoom sát vào, chuột phải 
-  geoLatitude: 50.72165291432293,
-  geoLongitude: -3.5336547035207144,
+  //Mở Google Maps tiệm, zoom sát vào, chuột phải  , 
+  geoLatitude: 50.721694,
+  geoLongitude: -3.533614,
 
   //Code xác minh của website trên Google Search
   metaGoogleSiteVerification: "",
