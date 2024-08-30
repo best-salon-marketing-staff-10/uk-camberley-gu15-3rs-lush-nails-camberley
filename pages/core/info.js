@@ -391,7 +391,7 @@ const schemaInput = {
   schemaImage10: "/images/gel-nails-shellac-nails-5.jpg",
   schemaImage11: "/images/nail-design-1.jpg",
   schemaImage12: "/images/nail-design-2.jpg",
-  schemaImage13: "/images/nail-design-3.jpg",
+  schemaImage13: "/images/nail-design-3-1.jpg",
   schemaImage14: "/images/nail-design-4.jpg",
   schemaImage15: "/images/nail-design-5.jpg",
   schemaImage16: "/images/pedicure-1.jpg",
@@ -769,7 +769,7 @@ const images = {
 
   serviceList5Image1 : "/images/nail-design-1.jpg",
   serviceList5Image2 : "/images/nail-design-2.jpg",
-  serviceList5Image3 : "/images/nail-design-3.jpg",
+  serviceList5Image3 : "/images/nail-design-3-1.jpg",
   serviceList5Image4 : "/images/nail-design-4.jpg",
   serviceList5Image5 : "/images/nail-design-5.jpg",
 
