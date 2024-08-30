@@ -1,7 +1,7 @@
 import { serviceList5 } from '/pages/core/info';
 
-export default function Service5PriceList(){
-    return(
+export default function Service5PriceList() {
+    return (
         <>
             <div className="service-list-5">
                 <div className="price-list-details-services">
@@ -9,29 +9,29 @@ export default function Service5PriceList(){
                         <div className="price-list-details-services-item">
                             <div className="price-list-details-services-name">
                                 <span className="price-list-details-services-name">
-                                    {serviceList5.service1}
+                                    {serviceList5.service2}
                                 </span>
                                 <span className="price-list-details-services-name-notice">
-                                    
+
                                 </span>
                             </div>
                             <div className="price-list-details-services-time">
                                 <span className="price-list-details-services-time">
-                                    {serviceList5.service1Time}
+                                    {serviceList5.service2Time}
                                 </span>
                             </div>
                             <div className="price-list-details-services-description">
                                 <span className="price-list-details-services-description">
-                                    {serviceList5.service1Description}
+                                    {serviceList5.service2Description}
                                 </span>
                             </div>
                         </div>
                         <div className="price-list-details-services-price">
                             <span className="price-list-addition-info">
-                                
+
                             </span>
                             <span className="price-list-details-services-price">
-                               £{serviceList5.service1Price}
+                                £{serviceList5.service2Price}
                             </span>
                         </div>
                     </div>
@@ -39,29 +39,29 @@ export default function Service5PriceList(){
                         <div className="price-list-details-services-item">
                             <div className="price-list-details-services-name">
                                 <span className="price-list-details-services-name">
-                                    {serviceList5.service4}
+                                    {serviceList5.service5}
                                 </span>
                                 <span className="price-list-details-services-name-notice">
-                                    
+
                                 </span>
                             </div>
                             <div className="price-list-details-services-time">
                                 <span className="price-list-details-services-time">
-                                    {serviceList5.service4Time}
+                                    {serviceList5.service5Time}
                                 </span>
                             </div>
                             <div className="price-list-details-services-description">
                                 <span className="price-list-details-services-description">
-                                    {serviceList5.service4Description}
+                                    {serviceList5.service5Description}
                                 </span>
                             </div>
                         </div>
                         <div className="price-list-details-services-price">
                             <span className="price-list-addition-info">
-                                
+
                             </span>
                             <span className="price-list-details-services-price">
-                               £{serviceList5.service4Price}
+                                £{serviceList5.service5Price}
                             </span>
                         </div>
                     </div>
