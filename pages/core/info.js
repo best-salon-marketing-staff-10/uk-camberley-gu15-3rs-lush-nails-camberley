@@ -116,7 +116,7 @@ const changedInfo = {
   businessWebsite: "https://lush-nails-camberley.web.app",
 
   linkBookingMap: "",
-  linkBookingApp: "https://bit.ly/471vf50",
+  linkBookingApp: "https://joybookings.com/lushnailscamberley/booking",
   linkToMap: "https://maps.app.goo.gl/8M54AXNQrdisCTdR8",
 
   
